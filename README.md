@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Hamed.
 
 <!--
 **HPWebdeveloper/HPWebdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +19,8 @@ Here are some ideas to get you started:
 ### I have a Laravel package:
 
 #### Laravel Pay Pocket:
- - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/HPWebdeveloper/laravel-pay-pocket"> <a href="[https://github.com/HPWebdeveloper/laravel-pay-pocket](https://github.com/HPWebdeveloper/laravel-pay-pocket)https://github.com/HPWebdeveloper/laravel-pay-pocket">  Laravel Pay Pocket
+ - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/HPWebdeveloper/laravel-pay-pocket"> <a href="[https://github.com/HPWebdeveloper/laravel-pay-pocket](https://github.com/HPWebdeveloper/laravel-pay-pocket)https://github.com/HPWebdeveloper/laravel-pay-pocket">  https://github.com/HPWebdeveloper/laravel-pay-pocket
+
+
+![github stats](https://github-readme-stats.vercel.app/api?username=HPWebdeveloper)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HPWebdeveloper&layout=compact)
