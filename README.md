@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-### I have a Laravel package:
+### I have developed some Laravel packages pinned below:
 
 #### Laravel Pay Pocket:
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/HPWebdeveloper/laravel-pay-pocket"> <a href="[https://github.com/HPWebdeveloper/laravel-pay-pocket](https://github.com/HPWebdeveloper/laravel-pay-pocket)https://github.com/HPWebdeveloper/laravel-pay-pocket">  https://github.com/HPWebdeveloper/laravel-pay-pocket
