@@ -27,6 +27,18 @@ A Laravel package for handling payment flows and pocket-based balances.
 
 🔗 https://github.com/HPWebdeveloper/laravel-pay-pocket
 
+
+### Laravel Failed Jobs
+A Laravel package to help you manage and inspect failed queue jobs with a cleaner workflow.
+
+- ⭐ Packagist stars: ![Packagist Stars](https://img.shields.io/packagist/stars/hpwebdeveloper/laravel-failed-jobs)
+- 📦 Downloads: ![Packagist Downloads](https://img.shields.io/packagist/dt/hpwebdeveloper/laravel-failed-jobs)
+- 🧩 Laravel: ![Laravel Version](https://img.shields.io/packagist/dependency-v/hpwebdeveloper/laravel-failed-jobs/illuminate%2Fsupport)
+
+🔗 https://packagist.org/packages/hpwebdeveloper/laravel-failed-jobs  
+🔗 https://github.com/HPWebdeveloper/laravel-failed-jobs
+
+
 ---
 
 ## 🛠️ Tech Stack
