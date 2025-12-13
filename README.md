@@ -54,7 +54,7 @@ A Laravel package for handling payment flows and pocket-based balances.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HPWebdeveloper&hide_border=true)
 
-![Profile Views](https://komarev.com/ghpvc/?username=HPWebdeveloper&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=HPWebdeveloper&color=blue) **Since Dec 2025**
 
 ---
 
