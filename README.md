@@ -5,7 +5,7 @@ I build scalable, production-ready systems with a strong focus on performance, m
 
 ## 🔎 Open to Opportunities
 
-I’m currently open to senior backend or full-stack roles,
+I’m currently open to fulltime senior backend, full-stack roles,
 with a focus on Laravel-based systems and scalable architectures.
 
 ## 📫 Contact
