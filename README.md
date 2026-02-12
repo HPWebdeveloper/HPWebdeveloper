@@ -1,5 +1,5 @@
 ### Hi, I'm Hamed 👋  
-Senior Backend / Full-Stack Developer — Laravel, PHP, React, Vue
+Senior Backend / Full-Stack Developer — Laravel, PHP, React
 
 I build scalable, production-ready systems with a strong focus on performance, maintainability, and clean architecture.
 
