@@ -8,11 +8,6 @@ Senior Backend / Full-Stack Developer — Laravel, PHP, React
 
 ## 🧩 Open Source Packages
 
-### [Laravel StateFlow](https://github.com/HPWebdeveloper/laravel-stateflow)
-Enterprise-ready state machine for Laravel Eloquent models using Enum.
-
-![GitHub Stars](https://img.shields.io/github/stars/HPWebdeveloper/laravel-stateflow?style=flat) ![Packagist Downloads](https://img.shields.io/packagist/dt/HPWebdeveloper/laravel-stateflow)
-
 ### [Laravel Pay Pocket](https://github.com/HPWebdeveloper/laravel-pay-pocket)
 Multi-wallet and pocket-based balance management for Laravel.
 
@@ -22,6 +17,11 @@ Multi-wallet and pocket-based balance management for Laravel.
 Manage and inspect failed queue jobs in Laravel.
 
 ![GitHub Stars](https://img.shields.io/github/stars/HPWebdeveloper/laravel-failed-jobs?style=flat) ![Packagist Downloads](https://img.shields.io/packagist/dt/HPWebdeveloper/laravel-failed-jobs)
+
+### [Laravel StateFlow](https://github.com/HPWebdeveloper/laravel-stateflow)
+Enterprise-ready state machine for Laravel Eloquent models using Enum.
+
+![GitHub Stars](https://img.shields.io/github/stars/HPWebdeveloper/laravel-stateflow?style=flat) ![Packagist Downloads](https://img.shields.io/packagist/dt/HPWebdeveloper/laravel-stateflow)
 
 ---
 
