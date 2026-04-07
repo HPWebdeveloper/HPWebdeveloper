@@ -2,7 +2,7 @@
 
 Senior Backend / Full-Stack Developer — Laravel, PHP, React
 
-📫 panjeh@gmail.com · Open to senior backend / full-stack roles
+📫 panjeh@gmail.com · Open to senior full-stack roles
 
 ---
 
