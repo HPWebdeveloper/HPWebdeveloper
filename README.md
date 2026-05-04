@@ -1,6 +1,6 @@
 ### Hi, I'm Hamed 👋
 
-Senior Backend / Full-Stack Developer — Laravel, PHP, React
+Senior Backend / Full-Stack Developer — Laravel, PHP, React, Javascript
 
 📫 panjeh@gmail.com · Open to senior full-stack roles
 
