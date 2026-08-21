@@ -2,11 +2,17 @@
 
 Senior Backend / Full-Stack Developer — Laravel, PHP, React, Javascript
 
-📫 panjeh@gmail.com · Open to senior full-stack roles
+📫 panjeh@gmail.com · Open to senior full-stack roles & building scaled multi-agent AI systems
 
 ---
 
 ## 🧩 Open Source Packages
+
+### [Laravel Env Settings](https://github.com/HPWebdeveloper/laravel-env-settings)
+
+Move non-secret config out of `.env` into typed, environment-aware PHP classes. · [Live demo](https://laravel-env-settings.hpweb.dev/)
+
+![GitHub Stars](https://img.shields.io/github/stars/HPWebdeveloper/laravel-env-settings?style=flat) ![Packagist Downloads](https://img.shields.io/packagist/dt/HPWebdeveloper/laravel-env-settings)
 
 ### [Laravel Pay Pocket](https://github.com/HPWebdeveloper/laravel-pay-pocket)
 
